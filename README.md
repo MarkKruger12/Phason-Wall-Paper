@@ -21,3 +21,4 @@ We map this structural behavior directly to financial markets:
 
 ## Contents
 * [cite_start]`The_Phason_Wall.pdf`: The complete research paper detailing the mathematical formulation, empirical proxies (phason wall indicator, dislocation stress), and the criterion for distinguishing periodic vs. aperiodic market regimes[cite: 11].
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20513964.svg)](https://doi.org/10.5281/zenodo.20513964)
